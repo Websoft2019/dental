@@ -139,9 +139,10 @@
                     <!-- Footer Contact Links Start -->
                     <div class="footer-links footer-contact-links">
                         <h3>contact us</h3>
-                        <ul>                            
-                            <li><a href="#">info@domain.com</a></li>
-                            <li><a href="#">+(123) 698-5245</a></li>
+                        <ul>
+                            <li><a href="#">Nayabazar, Pokhara-8 (Infront of GMC Hospital)</a></li>                            
+                            <li><a href="#">info@paschimanchaldentalhome.com.np</a></li>
+                            <li><a href="#">+(977) 61 585477</a></li>
                         </ul>
                     </div>
                     <!-- Footer Contact Links End -->

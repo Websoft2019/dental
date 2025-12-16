@@ -219,7 +219,7 @@
                         <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
                             <!-- Icon Box Start -->
                             <div class="icon-box">
-                                <img src="images/icon-why-us-2.svg" alt="">
+                                <img src="{{ asset('site/images/icon-why-us-2.svg') }}" alt="">
                             </div>  
                             <!-- Icon Box End -->
 
@@ -236,7 +236,7 @@
                         <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
                             <!-- Icon Box Start -->
                             <div class="icon-box">
-                                <img src="images/icon-why-us-3.svg" alt="">
+                                <img src="{{ asset('site/images/icon-why-us-3.svg') }}" alt="">
                             </div>  
                             <!-- Icon Box End -->
 
@@ -256,7 +256,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image wow fadeInUp">
                         <figure>
-                            <img src="images/why-choose-us-img.png" alt="">
+                            <img src="{{ asset('site/images/why-choose-us-img.png') }}" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -269,7 +269,7 @@
                         <div class="why-choose-item wow fadeInUp">
                             <!-- Icon Box Start -->
                             <div class="icon-box">
-                                <img src="images/icon-why-us-4.svg" alt="">
+                                <img src="{{ asset('site/images/icon-why-us-4.svg') }}" alt="">
                             </div>  
                             <!-- Icon Box End -->
 
@@ -286,7 +286,7 @@
                         <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
                             <!-- Icon Box Start -->
                             <div class="icon-box">
-                                <img src="images/icon-why-us-5.svg" alt="">
+                                <img src="{{ asset('site/images/icon-why-us-5.svg') }}" alt="">
                             </div>  
                             <!-- Icon Box End -->
 
@@ -303,7 +303,7 @@
                         <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
                             <!-- Icon Box Start -->
                             <div class="icon-box">
-                                <img src="images/icon-why-us-6.svg" alt="">
+                                <img src="{{ asset('site/images/icon-why-us-6.svg') }}" alt="">
                             </div>  
                             <!-- Icon Box End -->
 
@@ -344,7 +344,7 @@
                     <div class="testimonial-image">
                         <div class="testimonial-img">
                             <figure class="reveal image-anime">
-                                <img src="images/testimonials-img.jpg" alt="">
+                                <img src="{{ asset('site/images/testimonials-img.jpg') }}" alt="">
                             </figure>
                         </div>
 
@@ -392,7 +392,7 @@
 									<div class="testimonial-item">	
                                         <div class="testimonial-header">
                                             <div class="testimonial-quote-image">
-                                                <img src="images/icon-testimonial-quote.svg" alt="">
+                                                <img src="{{ asset('site/images/icon-testimonial-quote.svg') }}" alt="">
                                             </div>
                                             <div class="testimonial-content">
                                                 <p>"I want to say thank you to my doctor Steve! Vivamus sagittis massa vitae bibendum rhoncus. Duis cursus.” “Thank you for helping me overcome my fear of the dentist! Vivamus sagittis massa vitae bibendum rhoncus. Duis cursus."</p>
@@ -401,7 +401,7 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-1.jpg" alt="">
+                                                    <img src="{{ asset('site/images/author-1.jpg') }}" alt="">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
@@ -418,7 +418,7 @@
 									<div class="testimonial-item">	
                                         <div class="testimonial-header">
                                             <div class="testimonial-quote-image">
-                                                <img src="images/icon-testimonial-quote.svg" alt="">
+                                                <img src="{{ asset('site/images/icon-testimonial-quote.svg') }}" alt="">
                                             </div>
                                             <div class="testimonial-content">
                                                 <p>"The best dental experience I've ever had! The team was professional and friendly, and the results were amazing. Highly recommend!"Dr. Smith and his staff are fantastic! They made me feel comfortable and at ease during my visit."</p>
@@ -427,7 +427,7 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-2.jpg" alt="">
+                                                    <img src="{{ asset('site/images/author-2.jpg') }}" alt="">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
@@ -444,7 +444,7 @@
 									<div class="testimonial-item">	
                                         <div class="testimonial-header">
                                             <div class="testimonial-quote-image">
-                                                <img src="images/icon-testimonial-quote.svg" alt="">
+                                                <img src="{{ asset('site/images/icon-testimonial-quote.svg') }}" alt="">
                                             </div>
                                             <div class="testimonial-content">
                                                 <p>"Excellent service and care. The staff is knowledgeable and always willing to answer questions. I wouldn't go anywhere else for my dental needs.""From the moment I walked in, I felt welcomed and cared for. staff is exceptional."</p>
@@ -453,7 +453,7 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-3.jpg" alt="">
+                                                    <img src="{{ asset('site/images/author-3.jpg') }}" alt="">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
