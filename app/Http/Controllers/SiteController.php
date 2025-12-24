@@ -29,4 +29,12 @@ class SiteController extends Controller
     public function getBlogs(){
         return view('site.blogs');
     }
+
+    public function getServiceDetail(){
+        return view('site.service-detail');
+    }
+
+    public function getBlogDetail(){
+        return view('site.blog-detail');
+    }
 }
